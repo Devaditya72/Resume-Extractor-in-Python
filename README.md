@@ -15,7 +15,4 @@ The module used for tokenizing and stop word removal are:
 
 To get both you'll to install the Python NLTK module.
 
-The script is written in Python 2.7..6
-
-##License
-The script is licensed under the General Public License (GPL), for more details do check out the [LICENSE.md](LICENSE.md).
+The script is written in Python 3.7.6
